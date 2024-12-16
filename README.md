@@ -4,7 +4,7 @@ Files:
 - coordinates.py: convert between cartesian and polar coordinates
 
 Installation:
-`pip install git+https://gitlab.tudelft.nl/medical-process-engineering/coordinates.git`
+`pip install git+https://github.com/RM-8vt13r/coordinates.git`
 
 Usage:
 ```python
